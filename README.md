@@ -1,1 +1,1 @@
-# spotify-sentiment
+# spotify-sentiment-analysis
